@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/add.png</file>
+        <file>image/back.jpg</file>
+        <file>image/bg.jpg</file>
+        <file>image/bug.jpeg</file>
+        <file>image/bug1.jpeg</file>
+        <file>image/butterfly.png</file>
+        <file>image/butterfly1.png</file>
+        <file>image/cat.jpg</file>
+        <file>image/cat1.jpg</file>
+        <file>image/cleanport.png</file>
+        <file>image/clear.jpg</file>
+        <file>image/down.png</file>
+        <file>image/Edit.png</file>
+        <file>image/Frame.jpg</file>
+        <file>image/Left.png</file>
+        <file>image/login.png</file>
+        <file>image/logo.png</file>
+        <file>image/Luffy.png</file>
+        <file>image/LuffyQ.png</file>
+        <file>image/mario.gif</file>
+        <file>image/mesage.png</file>
+        <file>image/New.png</file>
+        <file>image/OnePiece.png</file>
+        <file>image/open.png</file>
+        <file>image/Pause.png</file>
+        <file>image/photo.png</file>
+        <file>image/quit.jpg</file>
+        <file>image/register.png</file>
+        <file>image/reload.png</file>
+        <file>image/Right.png</file>
+        <file>image/save.png</file>
+        <file>image/set.png</file>
+        <file>image/set1.png</file>
+        <file>image/set3.jpg</file>
+        <file>image/Start.png</file>
+        <file>image/stop.png</file>
+        <file>image/Sunny.jpg</file>
+        <file>image/sunny.png</file>
+        <file>image/Thumbs.db</file>
+        <file>image/time.png</file>
+        <file>image/up.png</file>
+        <file>image/word.htm</file>
+        <file>image/write2file.png</file>
+    </qresource>
+</RCC>
